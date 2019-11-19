@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>vimaml</name>
+  <version>0.0.0</version>
+  <description>MAML with VI sensor</description>
+
+  <maintainer email="yukun@todo.todo">yukun</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+</package>
