@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>vimaml</name>
-  <version>0.0.0</version>
+  <version>0.1.0</version>
   <description>MAML with VI sensor</description>
 
-  <maintainer email="yukun@todo.todo">yukun</maintainer>
+  <maintainer email="yukun@ethz.ch">yukun</maintainer>
 
   <license>TODO</license>
 
